@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Employee view="Черное">
+    <Liter>22</Liter>
+    <Date>23052019</Date>
+  </Employee>
+  <Employee view="Кофе со сливками">
+    <Liter>10</Liter>
+    <Date>16032019</Date>
+    <Employee view="Крепкое кофе">
+      <Liter>16</Liter>
+      <Date>01062019</Date>
+    </Employee>
+  </Employee>
+</root>
